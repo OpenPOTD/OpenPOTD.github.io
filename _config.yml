@@ -7,19 +7,14 @@ permalink:        pretty
 
 # Setup
 title:            OpenPOTD
-#tagline:          'OpenPod'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+description:      'Welcome to the OpenPOTD landing page - here you can access the leaderboard, past questions with solutions, and a guide on how to get OpenPOTD bot set up on your own Discord server!'
+url:              http://54.79.116.177/
 baseurl:          /
-
-author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
 
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+version:          1.0
 
 github:
   repo:           https://github.com/poole/hyde
@@ -27,3 +22,5 @@ github:
 plugins:
     - jekyll-gist
     - jekyll-paginate
+ 
+future: true

@@ -6,8 +6,8 @@ permalink:        pretty
 #relative_permalinks: true
 
 # Setup
-title:            OpenPOTD
-description:      'Welcome to the OpenPOTD landing page - here you can access the leaderboard, past questions with solutions, and a guide on how to get OpenPOTD bot set up on your own Discord server!'
+title:            Open POTD
+description:      'Welcome to the OpenPOTD landing page!'
 url:              http://54.79.116.177/
 baseurl:          /
 
@@ -23,4 +23,3 @@ plugins:
     - jekyll-gist
     - jekyll-paginate
  
-future: true

@@ -1,0 +1,11 @@
+---
+layout: page
+title: Solutions
+---
+
+<p class="message">
+  Hey bitch! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+</p>
+
+<iframe src="https://docs.google.com/gview?url=https://github.com/OpenPOTD/Solutions/blob/main/Solutions.pdf&embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe>
+  

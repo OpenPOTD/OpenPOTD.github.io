@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Get the Bot
 ---
 
 <p class="message">

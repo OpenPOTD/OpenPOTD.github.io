@@ -12,7 +12,7 @@ From here you need to ensure you have a few things set up:
 1. Have a role for the bot which can manage roles, and ensure this role is higher than any other roles it will be managing.
 2. Have a role for the bot to ping. **By default the bot looks for** `@*-of-the-day`.
 3. Have a role for people who have succesfully solved the QOTD. **By default the bot looks for** `@*-solved`.
-4. Have a role for posting the QOTD. **By default the bot looks for** `#*-of-the-day`.
+4. Have a channel for posting the QOTD. **By default the bot looks for** `#*-of-the-day`.
 5. Have 3 roles set up, for bronze, silver, and gold medalists. 
 
 ### Bot Setup
@@ -31,10 +31,10 @@ If you now a good time to set up medal roles. Run the command `%medal_roles [bro
 2. `%fetch`: Running `%fetch [question number or date]` posts the appropriate question in the channel in which the command is called. 
 3. `%info`: **NEED TO DEPRECIATE**
 4. `%manual`: **DEPRECIATE**
-5. `%nick`: Running `%nick [new nickname]` 
+5. `%nick`: Running `%nick [new nickname]` **???**
 6. `%rank`: Run `%rank [season number]` to get that season's rankings
 6. `%score`: Run `%score [season number]` to get that season's scores
-7. `%self`: Running `%self` gives information on yourself wrt OpenPOTD
+7. `%self`: Running `%self` gives information on yourself in regards to OpenPOTD
 8. `%toggle_anon`: Toggles your `anonymous` field in the OpenPOTD database
 
 You can also change any of these commands at any time, or run `%help [command]` to get example usage.

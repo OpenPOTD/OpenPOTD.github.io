@@ -1,0 +1,8 @@
+I")<p>First click the link <a href="https://discord.com/api/oauth2/authorize?client_id=763882474466967554&amp;permissions=0&amp;scope=bot">here</a> to add OpenPOTD to your server.</p>
+
+<p>Once OpenPOTD is in your server, use the <code class="language-plaintext highlighter-rouge">%init</code> command to initialise OpenPOTD. OpenPOTD will try to infer the correct settings for your server; check if it’s right with the <code class="language-plaintext highlighter-rouge">%config</code> command. If you would like to change any settings manually, use <code class="language-plaintext highlighter-rouge">%[setting name] [new setting]</code>, for example, <code class="language-plaintext highlighter-rouge">%potd_channel #problem-of-the-day</code>.</p>
+
+<p>Medal roles are slightly different. They should be set with <code class="language-plaintext highlighter-rouge">%medal_roles [bronze_role] [silver_role] [gold_role]</code>.</p>
+
+<p>Please make sure OpenPOTD has permissions to post in the designated problem channel. Furthermore, if you want OpenPOTD to be able to give and remove roles based on solving, please make sure OpenPOTD has the <code class="language-plaintext highlighter-rouge">Manage Roles</code> permissions and OpenPOTD’s highest role is higher than the solver role. The same is true for medal roles.</p>
+:ET

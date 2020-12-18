@@ -21,6 +21,7 @@ Now that the your server is all set up, type in `%init`. The bot will look for t
 
 The first command you should run is `%config`. You will get an infobox as such:
 
+![My helpful screenshot](/assets/ss.png)
 # NEED TO ADD IMAGE
 
 You can now set the command prefix with `%command_prefix` **BROKEN**. From here on this shall be assumed to be unchanged. 

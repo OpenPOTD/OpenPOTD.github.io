@@ -19,10 +19,9 @@ From here you need to ensure you have a few things set up:
 
 Now that the your server is all set up, type in `%init`. The bot will look for the aforementioned settings, and if it doesn't find anything you will have to manually set them in the way you will set up other commands below. The general form is `%[setting] [arguments]`. 
 
-The first command you should run is `%config`. You will get an infobox as such:
+The first command you should run is `%config`. You will get an infobox as such (but with some or all of the fields not filled in):
 
 ![My helpful screenshot](/assets/ss.png)
-# NEED TO ADD IMAGE
 
 You can now set the command prefix with `%command_prefix` **BROKEN**. From here on this shall be assumed to be unchanged. 
 

@@ -1,0 +1,17 @@
+I" <p>Preliminary release notes for the 1.0 release of OpenPOTD.</p>
+
+<p>Multiserver:</p>
+<ul>
+  <li>Allow different servers to add OpenPOTD at the same time.</li>
+  <li>Allow custom prefixes to be set.</li>
+  <li>Allow servers to set their own gold/silver/bronze roles.</li>
+</ul>
+
+<p>Other:</p>
+<ul>
+  <li>Allow people to toggle anonymity on the OpenPOTD website.</li>
+  <li>Custom menus implementation works in DMs as well.</li>
+  <li>Added exponential cooldown system for not solving a problem.</li>
+  <li>Add a license (AGPL 3.0).</li>
+</ul>
+:ET

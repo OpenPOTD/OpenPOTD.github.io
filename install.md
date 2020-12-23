@@ -31,18 +31,10 @@ If you now a good time to set up medal roles. Run the command `%medal_roles [bro
 2. `%fetch`: Running `%fetch [question number or date]` posts the appropriate question in the channel in which the command is called. 
 3. `%info`: **NEED TO DEPRECIATE**
 4. `%manual`: **DEPRECIATE**
-5. `%nick`: Running `%nick [new nickname]` **???**
+5. `%nick`: Running `%nick [new nickname]` 
 6. `%rank`: Run `%rank [season number]` to get that season's rankings
 6. `%score`: Run `%score [season number]` to get that season's scores
 7. `%self`: Running `%self` gives information on yourself in regards to OpenPOTD
 8. `%toggle_anon`: Toggles your `anonymous` field in the OpenPOTD database
 
 You can also change any of these commands at any time, or run `%help [command]` to get example usage.
-
-### OLD
-
-~~Once OpenPOTD is in your server, use the `%init` command to initialise OpenPOTD. OpenPOTD will try to infer the correct settings for your server; check if it's right with the `%config` command. If you would like to change any settings manually, use `%[setting name] [new setting]`, for example, `%potd_channel #problem-of-the-day`.~~
-
-~~Medal roles are slightly different. They should be set with `%medal_roles [bronze_role] [silver_role] [gold_role]`.~~
-
-~~Please make sure OpenPOTD has permissions to post in the designated problem channel. Furthermore, if you want OpenPOTD to be able to give and remove roles based on solving, please make sure OpenPOTD has the `Manage Roles` permissions and OpenPOTD's highest role is higher than the solver role. The same is true for medal roles.~~

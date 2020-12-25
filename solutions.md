@@ -7,7 +7,7 @@ title: Solutions
  
   Welcome to the OpenPOTD solutions booklet! Here you'll find answers & solutions to all past seasons. If your browser does not support the viewing of the embedded PDF, you can view it 
 <a href="https://raw.githubusercontent.com/OpenPOTD/Solutions/main/Solutions.pdf">here</a>
-. If you'd like to contribute a solution, or fix a typo, or learn how to otherwise contribute, you can find the repository <a href="https://github.com/OpenPOTD/Solutions">here</a>. The <a href="https://github.com/OpenPOTD/Solutions/blob/main/README.md">README</a> contains all you need to know.
+. If you'd like to contribute a solution, or fix a typo, or learn how to otherwise contribute, you can find the repository <a href="https://github.com/OpenPOTD/Solutions">here</a>. The <a href="https://github.com/OpenPOTD/Solutions/blob/main/README.md">README</a>, or `Introduction` section of the booklet contains all you need to know.
 </p>
 
 <iframe

@@ -19,5 +19,5 @@ At this difficulty solvers should be expected to solve - what may be considered 
 ### Hard (Friday) - D4-D5
 Hard problems should have little in the way of restrictions on content, they should be challenging to a majority of attempters. The difficulty should equate roughly to something akin to AIME Q6-15, BMO1 P4-6 and BMO2 P1-2.
 
-### Challenging (Saturday & Suday) - D6-D8
+### Challenging (Saturday & Sunday) - D6-D8
 The difficulty of these problems may be anywhere from a BMO2 P3-4 to IMO 2/5.\\

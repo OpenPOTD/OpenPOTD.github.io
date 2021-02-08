@@ -3,7 +3,7 @@ layout: post
 title: We're looking for new team members & Feedback!
 ---
 
-We're looking to make some changes. The first of which is that we are looking for 2-3 people to join the Problem Selection Committee. You can apply using [this Google forms link](https://forms.gle/7k8f87vXGEcsvdBVA/) - everything you need to know is in there. 
+We're looking to make some changes. The first of which is that we are looking for 2-3 people to join the Problem Selection Committee. You can apply using [this Google forms link](https://forms.gle/7k8f87vXGEcsvdBVA/) - everything you need to know is in there.  [We have now closed submission]
 
 Our second announcement is that in line with the Problem Selection Committee changing, we want to know how we can better optimise the structure of the seasons to be more enjoyable and fun for all. [Here](https://forms.gle/WoeqsqomtdJdXSmh9) you can find a link to a Google forms page that takes approximately one minute to complete. We want to hear your feedback and suggestions!
 

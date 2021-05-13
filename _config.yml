@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Open POTD
 description:      'Welcome to the OpenPOTD landing page!'
-url:              http://54.79.116.177/
+url:              https://openpotd.github.io
 baseurl:          /
 
 paginate:         5
@@ -17,7 +17,7 @@ paginate:         5
 version:          1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/OpenPOTD/OpenPOTD.github.io
 
 plugins:
     - jekyll-gist
